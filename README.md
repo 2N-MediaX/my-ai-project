@@ -1,7 +1,7 @@
 ```markdown
 🚀 Multi-Modal AI Toolkit  
-![License](https://img.shields.io/badge/license-MIT-brightgreen)   
-![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+License -> (https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)   
+Python -> (https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)   
 
 A unified AI system for text generation, text-to-speech (TTS), video synthesis, and image generation.
 Built for developers and content creators who want to harness the power of generative AI.  
