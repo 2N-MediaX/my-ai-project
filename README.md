@@ -116,6 +116,6 @@ See [LICENSE](LICENSE) for details.
 
  📧 Contact  
 - Creator: 2N-MediaX  
-- Email: [2nmediax@gmail.com](mailto:2nmediax@gmail.com)  
-- GitHub: [2N-MediaX](https://github.com/2N-MediaX)  
+- Email : [2nmediax@gmail.com](mailto:2nmediax@gmail.com)  
+- GitHub : [2N-MediaX](https://github.com/2N-MediaX)  
 ```  
