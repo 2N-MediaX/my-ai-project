@@ -1,14 +1,13 @@
 ```markdown
- 🚀 Multi-Modal AI Toolkit  
+🚀 Multi-Modal AI Toolkit  
 License -> https://img.shields.io/badge/license-MIT-brightgreen
 Python -> https://img.shields.io/badge/python-3.8%2B-blue  
 
 A unified AI system for text generation, text-to-speech (TTS), video synthesis, and image generation.
 Built for developers and content creators who want to harness the power of generative AI.  
 
----
 
- 📚 Table of Contents  
+📚 Table of Contents
 - Features 
 - Installation  
 - Usage  
@@ -18,9 +17,8 @@ Built for developers and content creators who want to harness the power of gener
 - License  
 - Contact  
 
----
 
- ✨ Features  
+✨ Features
 ✅ Text AI  
 - Generate responses with real-time web data (e.g., Latest tech news?)  
 - Fine-tuned LLaMA model with web search integration  
@@ -40,8 +38,7 @@ Built for developers and content creators who want to harness the power of gener
 ✅ Video + Audio Merge  
 - Sync TTS audio with video outputs seamlessly  
 
----
-
+``` 
  💻 Installation  
  Step 1: Clone the Repository  
 ```bash  
@@ -93,8 +90,8 @@ ffmpeg -i city.mp4 -i narration.mp3 -c:v copy -c:a aac final_video.mp4
 
 ---
 
- 🌐 Deployment  
- Local Server  
+🌐 Deployment  
+   Local Server  
 ```bash  
 uvicorn api:app --reload    
 ```  
@@ -119,6 +116,6 @@ See [LICENSE](LICENSE) for details.
 
  📧 Contact  
 - Creator: 2N-MediaX  
-- Email: [contact@2n-mediax.com](mailto:contact@2n-mediax.com)  
+- Email: [@2nmediax@gmail.com](mailto:contact@2n-mediax.com)  
 - GitHub: [@2N-MediaX](https://github.com/2N-MediaX)  
 ```  
