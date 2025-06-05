@@ -14,6 +14,7 @@ To report a security issue:
 3. Confidentiality : All reports are treated as confidential until resolved.
 
 Response Timeline :
+
 Acknowledgment : Within 24 hours of receipt.
 Fix : Critical issues will be addressed within 14 days ; lower-severity issues may take longer.
 
