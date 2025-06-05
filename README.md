@@ -1,7 +1,7 @@
 ```markdown
 🚀 Multi-Modal AI Toolkit  
-License -> https://img.shields.io/badge/license-MIT-brightgreen
-Python -> https://img.shields.io/badge/python-3.8%2B-blue  
+![License](https://img.shields.io/badge/license-MIT-brightgreen)   
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
 
 A unified AI system for text generation, text-to-speech (TTS), video synthesis, and image generation.
 Built for developers and content creators who want to harness the power of generative AI.  
@@ -82,23 +82,23 @@ ffmpeg -i city.mp4 -i narration.mp3 -c:v copy -c:a aac final_video.mp4
 ---
 
  🔧 Technologies  
-- Text AI: Hugging Face Transformers + LoRA fine-tuning  
-- Image/Video: Stable Diffusion, Runway ML, FFmpeg  
-- TTS: Coqui TTS  
-- APIs: FastAPI for backend endpoints  
-- Ethics: Content filters to block harmful outputs  
+- Text AI : Hugging Face Transformers + LoRA fine-tuning  
+- Image/Video : Stable Diffusion, Runway ML, FFmpeg  
+- TTS : Coqui TTS  
+- APIs : FastAPI for backend endpoints  
+- Ethics : Content filters to block harmful outputs  
 
 ---
 
 🌐 Deployment  
-   Local Server  
+Local Server  
 ```bash  
 uvicorn api:app --reload    
 ```  
 
  Cloud Hosting  
-- AWS: Deploy on EC2 with GPU support  
-- Netlify/Vercel: Host frontend React app  
+- AWS : Deploy on EC2 with GPU support  
+- Netlify/Vercel : Host frontend React app  
 
 ---
 
@@ -116,6 +116,6 @@ See [LICENSE](LICENSE) for details.
 
  📧 Contact  
 - Creator: 2N-MediaX  
-- Email: [@2nmediax@gmail.com](mailto:contact@2n-mediax.com)  
+- Email: [@2nmediax@gmail.com](mailto:2nmediax@gmail.com)  
 - GitHub: [@2N-MediaX](https://github.com/2N-MediaX)  
 ```  
