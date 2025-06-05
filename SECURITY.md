@@ -1,7 +1,6 @@
 # Security Policy  
 
-## Supported Versions  
-*(Update this table once versions are released)*  
+## Supported Versions   
 | Version | Supported          |  
 | ------- | ------------------ |  
 | `v1.0.x` | :white_check_mark: | *(Under active development)* |
