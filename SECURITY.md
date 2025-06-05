@@ -16,9 +16,10 @@ To report a security issue:
 Response Timeline :
 Acknowledgment : Within 24 hours of receipt.
 Fix : Critical issues will be addressed within 14 days ; lower-severity issues may take longer.
-Expectations :
 
+Expectations :
 Reporters : Avoid public disclosure until a fix is released.
+
 Project Team :
 Confirm the vulnerability’s validity.
 Credit you in the fix notes (if desired).
